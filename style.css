@@ -6,12 +6,12 @@ html, body
 
 body
 {
-background-image: linear-gradient(to right top, #D2B48C, #c08784, #855555, #5e3f3f, #613c3c);
+background-image: linear-gradient(to right top, #da6565, #c26762, #b13a3a, #ce4747, #cf0000);
 }
 
 #loginButton
 {
-	background-color:#855555
+	background-color:greenyellow
 }
 
 .header
